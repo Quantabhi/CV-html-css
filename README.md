@@ -8,4 +8,6 @@
  - After using many AI tools I realized that they do not help me improve my logical thinking, which is very important in software development.   
 
  
- > **All the code was written by me and no AI tools were used in its development.** 
+ > **All the code was written by me and no AI tools were used in its development.**
+
+ [Click here to see the project](https://quantabhi.github.io/CV-html-css)
